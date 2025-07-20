@@ -1,2 +1,0 @@
-/workspaces/RayTracing-C-/build/CMakeFiles/edit_cache.dir
-/workspaces/RayTracing-C-/build/CMakeFiles/rebuild_cache.dir
